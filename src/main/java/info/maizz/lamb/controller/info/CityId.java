@@ -6,17 +6,17 @@ import org.apache.commons.lang3.StringUtils;
 
 public enum CityId {
 
-	BEI_JING("BEI_JING","101010100"),
+	BEI_JING("bj","101010100"),
 
-	SHANG_HAI("SHANG_HAI","101020100"),
+	SHANG_HAI("sh","101020100"),
 
-	TIAN_JING ("TIAN_JING", "101030100"),
+	TIAN_JING ("tj", "101030100"),
 
-	CHONG_QING("CHONG_QING","101040100"),
+	CHONG_QING("cq","101040100"),
 
-	CHENG_DU ("CHENG_DU","101270101"),
+	CHENG_DU ("cd","101270101"),
 
-	NAN_JING("NAN_JING", "101270101");
+	NAN_JING("nj", "101270101");
 
 
 	private String name;
